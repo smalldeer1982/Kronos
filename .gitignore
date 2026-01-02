@@ -28,7 +28,6 @@ MANIFEST
 .idea/
 
 # VS Code
-.vscode/
 
 # macOS
 .DS_Store
@@ -73,3 +72,7 @@ venv.bak/
 *.temp
 temp/
 tmp/
+.python-version
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
